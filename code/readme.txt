@@ -2,7 +2,7 @@ Python version used during this project 2.7.12
 
 All package requirements are listed in the requirements.txt file. 
 
-This folder contains all the code needed to reproduce the results of Steinar Laenens AI MSc thesis "Clustering Directed Graphs Using Hermitian Laplacians"
+This folder contains all the code needed to reproduce the results of Steinar Laenens AI MSc thesis "Clustering Directed Graphs Using Hermitian Laplacians" - Can be found here: https://project-archive.inf.ed.ac.uk/msc/20193694/msc_proj.pdf
 
 There are two folders containing all the files. One is the theory folder, which contains some simple scripts to run theory experiments on. 
 
