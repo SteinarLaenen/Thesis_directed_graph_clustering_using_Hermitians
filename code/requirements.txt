@@ -55,7 +55,7 @@ python-debian==0.1.27
 python-systemd==231
 pytz==2018.9
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.21.0
 screen-resolution-extra==0.0.0
 sessioninstaller==0.0.0
